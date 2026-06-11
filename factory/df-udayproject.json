@@ -1,0 +1,15 @@
+{
+	"name": "df-udayproject",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "canadacentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "dd8e4253-f637-40ee-a1c5-075fcf3c09da",
+		"tenantId": "b64bd368-230c-4615-a234-d7a844d6252a"
+	}
+}
